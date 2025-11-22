@@ -1,1 +1,3 @@
-# proyecto-7
+Descripción del proyecto
+
+Esta aplicación web permite analizar un conjunto de datos de vehículos en venta en Estados Unidos. A través de una interfaz interactiva creada con Streamlit, el usuario puede visualizar diferentes gráficos que facilitan la comprensión del mercado automotriz. La aplicación ofrece herramientas para explorar la distribución de los precios mediante un histograma y examinar la relación entre el precio y el año del modelo a través de un gráfico de dispersión. Con estas visualizaciones, el usuario puede identificar tendencias, detectar valores atípicos y obtener información útil sobre la dinámica de precios en el mercado de autos usados.
